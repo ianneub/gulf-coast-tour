@@ -30,7 +30,6 @@
           {% endif %}
           <li><a href="{{ leg.url | url }}"{% if leg.url == page.url %} class="active"{% endif %}>{{ shortName }}</a></li>
         {% endfor %}
-        <li><a href="{{ '/logistics/' | url }}"{% if page.url == "/logistics/" %} class="active"{% endif %}>Logistics</a></li>
       </ul>
     </div>
   </nav>

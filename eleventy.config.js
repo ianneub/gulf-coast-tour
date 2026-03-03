@@ -6,6 +6,7 @@ export default function(eleventyConfig) {
   eleventyConfig.ignores.add("CLAUDE.md");
   eleventyConfig.ignores.add("docs/**");
   eleventyConfig.ignores.add("node_modules/**");
+  eleventyConfig.ignores.add("travel-logistics.md");
 
   // Collections: legs sorted by order
   eleventyConfig.addCollection("legs", function(collectionApi) {
