@@ -4,7 +4,7 @@ layout: layout.njk
 tags: leg
 order: 4
 leg: 4
-mustSee: "Boudin Trail & Vermilionville"
+mustSee: "Boudin Trail, Vermilionville & Atchafalaya swamp tour"
 driveTime: "~3.5 hrs from Houston"
 days: "5"
 image: "https://images.unsplash.com/photo-1597179874248-905a95903827?w=1200&h=600&fit=crop&q=80"
@@ -42,6 +42,20 @@ This is the hidden gem of the trip. Most tourists skip straight to New Orleans, 
   <img src="https://images.unsplash.com/photo-1555709180-40fd7a925918?w=800&h=500&fit=crop&q=80" alt="Louisiana crawfish boil" loading="lazy">
   <figcaption>A Cajun crawfish boil — if your trip falls during crawfish season, this is non-negotiable</figcaption>
 </figure>
+
+### Swamp & Airboat Tours
+
+The Atchafalaya Basin is the largest river swamp in the US, and getting out on the water is one of the best things you can do in Cajun Country. Alligators, herons, egrets, and cypress trees dripping with Spanish moss — it's the Louisiana you picture in your head.
+
+- **[Atchafalaya Basin Landing](https://basinlanding.com/)** ([map](https://www.google.com/maps/search/?api=1&query=Atchafalaya+Basin+Landing+Henderson+LA)) (Henderson) — 4.9 stars, family-owned since 1999. Airboat tours ($65/person) or calmer traditional swamp boat tours ($39/person). The traditional boat is the better pick for a relaxed group — still gets deep into the swamp, just quieter. Described as handicap-friendly
+- **[McGee's Swamp Tours](https://mcgeesswamptours.com/)** ([map](https://www.google.com/maps/search/?api=1&query=McGees+Swamp+Tours+Henderson+LA)) (Henderson) — 4.6 stars, the most well-known operator in the area. Airboat rides, guided swamp tours, and self-guided canoe rentals. Departs at 10am, 1pm, and 3pm
+- **[Champagne's Cajun Swamp Tours](https://champagnesswamptours.com/)** ([map](https://www.google.com/maps/search/?api=1&query=Champagnes+Cajun+Swamp+Tours+Breaux+Bridge+LA)) (Breaux Bridge) — 4.5 stars with 2,275+ reviews. Traditional eco swamp boat on Lake Martin ($25/person). The calmest, quietest option and the **only ADA-accessible dock** on the lake. Air-conditioned waiting area. Best pick if anyone in the group wants to skip the airboat intensity
+
+<div class="callout callout-gem">
+
+**Hidden Gem:** If you only do one, go with Basin Landing or McGee's for the airboat — the Atchafalaya Basin is wilder and more dramatic than Lake Martin. But if the group wants a gentler ride, Champagne's on Lake Martin is beautiful and very accessible.
+
+</div>
 
 ### Live Cajun & Zydeco Music
 - **[Randol's](https://www.randols.com/)** ([map](https://www.google.com/maps/search/?api=1&query=Randols+Restaurant+Breaux+Bridge+LA)) in Breaux Bridge — restaurant with Cajun dance floor, early evening sets
