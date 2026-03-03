@@ -7,13 +7,13 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,700;0,900;1,700&family=Source+Sans+3:wght@400;600&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="/css/style.css">
+  <link rel="stylesheet" href="{{ '/css/style.css' | url }}">
 </head>
 <body class="home">
 
   <nav class="nav">
     <div class="nav-inner">
-      <a href="/" class="nav-brand">Gulf Coast Tour</a>
+      <a href="{{ '/' | url }}" class="nav-brand">Gulf Coast Tour</a>
       <button class="nav-toggle" aria-label="Toggle navigation" aria-expanded="false">
         <span></span>
         <span></span>
@@ -28,9 +28,9 @@
           {% elif "Gulf Coast MS & Mobile" in shortName %}
             {% set shortName = "MS & Mobile" %}
           {% endif %}
-          <li><a href="{{ leg.url }}">{{ shortName }}</a></li>
+          <li><a href="{{ leg.url | url }}">{{ shortName }}</a></li>
         {% endfor %}
-        <li><a href="/logistics/">Logistics</a></li>
+        <li><a href="{{ '/logistics/' | url }}">Logistics</a></li>
       </ul>
     </div>
   </nav>
@@ -63,7 +63,7 @@
     <div class="destination-grid">
       {% set legsArr = collections.legs %}
       {% for leg in legsArr %}
-        <a href="{{ leg.url }}" class="destination-card">
+        <a href="{{ leg.url | url }}" class="destination-card">
           <span class="destination-card-number">{{ leg.data.leg }}</span>
           <h3 class="destination-card-title">{{ leg.data.title }}</h3>
           <p class="destination-card-days">Days {{ leg.data.days }}</p>

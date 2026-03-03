@@ -7,13 +7,13 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,700;0,900;1,700&family=Source+Sans+3:wght@400;600&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="/css/style.css">
+  <link rel="stylesheet" href="{{ '/css/style.css' | url }}">
 </head>
 <body>
 
   <nav class="nav">
     <div class="nav-inner">
-      <a href="/" class="nav-brand">Gulf Coast Tour</a>
+      <a href="{{ '/' | url }}" class="nav-brand">Gulf Coast Tour</a>
       <button class="nav-toggle" aria-label="Toggle navigation" aria-expanded="false">
         <span></span>
         <span></span>
@@ -28,9 +28,9 @@
           {% elif "Gulf Coast MS & Mobile" in shortName %}
             {% set shortName = "MS & Mobile" %}
           {% endif %}
-          <li><a href="{{ leg.url }}"{% if leg.url == page.url %} class="active"{% endif %}>{{ shortName }}</a></li>
+          <li><a href="{{ leg.url | url }}"{% if leg.url == page.url %} class="active"{% endif %}>{{ shortName }}</a></li>
         {% endfor %}
-        <li><a href="/logistics/"{% if page.url == "/logistics/" %} class="active"{% endif %}>Logistics</a></li>
+        <li><a href="{{ '/logistics/' | url }}"{% if page.url == "/logistics/" %} class="active"{% endif %}>Logistics</a></li>
       </ul>
     </div>
   </nav>
@@ -83,12 +83,12 @@
     {% endfor %}
     <nav class="prev-next">
       {% if prevLeg %}
-        <a href="{{ prevLeg.url }}" class="prev-next-link prev-next-prev">&#8592; {{ prevLeg.data.title }}</a>
+        <a href="{{ prevLeg.url | url }}" class="prev-next-link prev-next-prev">&#8592; {{ prevLeg.data.title }}</a>
       {% else %}
         <span></span>
       {% endif %}
       {% if nextLeg %}
-        <a href="{{ nextLeg.url }}" class="prev-next-link prev-next-next">{{ nextLeg.data.title }} &#8594;</a>
+        <a href="{{ nextLeg.url | url }}" class="prev-next-link prev-next-next">{{ nextLeg.data.title }} &#8594;</a>
       {% else %}
         <span></span>
       {% endif %}

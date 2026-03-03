@@ -20,6 +20,7 @@ export default function(eleventyConfig) {
       includes: "_includes",
       output: "_site"
     },
-    markdownTemplateEngine: "njk"
+    markdownTemplateEngine: "njk",
+    pathPrefix: "/gulf-coast-tour/"
   };
 }
