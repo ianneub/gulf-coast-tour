@@ -56,7 +56,7 @@ Mobile is deeply historic and perpetually underrated. It's the original Mardi Gr
   <figcaption>A WWII-era battleship — the USS Alabama is one of Mobile's most striking landmarks</figcaption>
 </figure>
 
-- **[Bellingrath Gardens](https://bellingrath.org/)** ([map](https://www.google.com/maps/search/?api=1&query=Bellingrath+Gardens+Theodore+AL)) — 65-acre estate garden south of town, beautiful in any season. Paved paths, accessible
+- **[Bellingrath Gardens](https://bellingrath.org/)** ([map](https://www.google.com/maps/search/?api=1&query=Bellingrath+Gardens+Theodore+AL)) — 65-acre estate garden south of town, beautiful in any season. Paved main paths
 
 ### Food
 
@@ -72,10 +72,10 @@ Mobile is deeply historic and perpetually underrated. It's the original Mardi Gr
 - **Homewood Suites Mobile Downtown** — reliable, check for destination chargers
 - Mobile is affordable compared to NOLA — hotel budgets go further here
 
-## Accessibility
+## Terrain & Getting Around
 
 - Ocean Springs is compact, flat, and walkable
 - Mobile's downtown is flat with wide sidewalks
-- Mobile Carnival Museum is fully accessible
-- USS Alabama has steep stairs and narrow passages on the ship itself — the outdoor memorial grounds and aircraft displays are accessible
+- Mobile Carnival Museum is flat, indoor, easy to navigate
+- USS Alabama has steep stairs and narrow passages on the ship itself — the outdoor memorial grounds and aircraft displays are on flat ground
 - Bellingrath Gardens has paved main paths; some garden sections are gravel

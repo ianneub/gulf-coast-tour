@@ -22,7 +22,7 @@ Pensacola blends military history, Spanish colonial roots, and genuine Gulf Coas
 - Over 150 restored aircraft, flight simulators, IMAX theater
 - Home base of the Blue Angels — if timing is right (typically Tuesday/Wednesday mornings), you can watch practice flights from the museum grounds
 - Plan 2–3 hours
-- Fully accessible with smooth paths throughout
+- Smooth, flat paths throughout — easy to spend 2-3 hours
 
 <figure class="content-photo">
   <img src="https://images.unsplash.com/photo-1621438080156-f7a66f88a423?w=800&h=500&fit=crop&q=80" alt="Blue Angels jets flying in formation" loading="lazy">
@@ -36,7 +36,7 @@ Pensacola blends military history, Spanish colonial roots, and genuine Gulf Coas
 
 ### [Fort Barrancas](https://www.nps.gov/guis/planyourvisit/fort-barrancas-area.htm) ([map](https://www.google.com/maps/search/?api=1&query=Fort+Barrancas+Pensacola+FL)) & [Fort Pickens](https://www.nps.gov/guis/planyourvisit/fort-pickens-area.htm) ([map](https://www.google.com/maps/search/?api=1&query=Fort+Pickens+Gulf+Islands+National+Seashore+FL))
 - Spanish and Civil War-era forts in the Gulf Islands National Seashore
-- **Fort Barrancas** — on the Naval Air Station grounds, smaller, accessible
+- **Fort Barrancas** — on the Naval Air Station grounds, smaller, flat paths
 - **Fort Pickens** — on Santa Rosa Island, larger, where Geronimo was held as prisoner. Paved paths to main areas but some sandy stretches
 
 <figure class="content-photo">
@@ -68,10 +68,10 @@ Pensacola blends military history, Spanish colonial roots, and genuine Gulf Coas
 - **[Hilton Pensacola Beach](https://www.hilton.com/en/hotels/pnspehf-hilton-pensacola-beach/)** ([map](https://www.google.com/maps/search/?api=1&query=Hilton+Pensacola+Beach+FL)) and **The Pensacola Beach Resort** (formerly Margaritaville Beach Hotel) are on the beach
 - Check for Tesla destination chargers at beach resort properties
 
-## Accessibility
+## Terrain & Getting Around
 
-- Naval Aviation Museum is excellent for accessibility — flat, smooth, spacious
+- Naval Aviation Museum is flat, smooth, and spacious — one of the easiest museums on the trip
 - Historic Pensacola Village is flat with paved walkways
-- Fort Barrancas has accessible paths; Fort Pickens has some sandy areas
+- Fort Barrancas has paved paths; Fort Pickens has some sandy stretches
 - Downtown Palafox Street is flat and well-maintained
-- Beach access varies — Pensacola Beach has boardwalk access points near the main pavilion area
+- Beach access varies — Pensacola Beach has boardwalk access near the main pavilion area

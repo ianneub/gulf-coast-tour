@@ -13,7 +13,7 @@ imageCard: "https://images.unsplash.com/photo-1692193483739-0e378f2eec45?w=600&h
 
 ## Why San Antonio
 
-The Alamo and the San Antonio Missions are some of the best-preserved Spanish colonial history in the country. The River Walk makes the whole downtown walkable, shaded, and accessible. This is the cultural detour that makes the hybrid route worth it.
+The Alamo and the San Antonio Missions are some of the best-preserved Spanish colonial history in the country. The River Walk makes the whole downtown walkable, shaded, and flat. This is the cultural detour that makes the hybrid route worth it.
 
 ## Key Stops
 
@@ -66,9 +66,9 @@ The Alamo and the San Antonio Missions are some of the best-preserved Spanish co
 - **[Hotel Emma](https://thehotelemma.com/)** ([map](https://www.google.com/maps/search/?api=1&query=Hotel+Emma+Pearl+San+Antonio+TX)) (in the Pearl) is stunning but pricey — worth checking for destination chargers
 - **[Drury Inn & Suites Riverwalk](https://www.druryhotels.com/locations/san-antonio-tx/drury-inn-and-suites-san-antonio-riverwalk)** ([map](https://www.google.com/maps/search/?api=1&query=Drury+Inn+Suites+Riverwalk+San+Antonio+TX)) and **[Hotel Contessa](https://www.thehotelcontessa.com/)** ([map](https://www.google.com/maps/search/?api=1&query=Hotel+Contessa+San+Antonio+Riverwalk+TX)) are solid mid-range with good access
 
-## Accessibility
+## Terrain & Getting Around
 
-- River Walk is fully paved and flat — one of the most accessible urban walks in Texas
-- The Alamo ground floor is accessible; upper areas have stairs
+- River Walk is fully paved and flat — one of the easiest urban walks in Texas
+- The Alamo ground floor is flat; upper areas have stairs
 - Missions have paved paths to main structures; some gravel in outer areas
 - Pearl District is flat and compact

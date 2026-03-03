@@ -49,7 +49,7 @@ The Atchafalaya Basin is the largest river swamp in the US, and getting out on t
 
 - **[Atchafalaya Basin Landing](https://basinlanding.com/)** ([map](https://www.google.com/maps/search/?api=1&query=Atchafalaya+Basin+Landing+Henderson+LA)) (Henderson) — 4.9 stars, family-owned since 1999. Airboat tours ($65/person) or calmer traditional swamp boat tours ($39/person). The traditional boat is the better pick for a relaxed group — still gets deep into the swamp, just quieter. Described as handicap-friendly
 - **[McGee's Swamp Tours](https://mcgeesswamptours.com/)** ([map](https://www.google.com/maps/search/?api=1&query=McGees+Swamp+Tours+Henderson+LA)) (Henderson) — 4.6 stars, the most well-known operator in the area. Airboat rides, guided swamp tours, and self-guided canoe rentals. Departs at 10am, 1pm, and 3pm
-- **[Champagne's Cajun Swamp Tours](https://champagnesswamptours.com/)** ([map](https://www.google.com/maps/search/?api=1&query=Champagnes+Cajun+Swamp+Tours+Breaux+Bridge+LA)) (Breaux Bridge) — 4.5 stars with 2,275+ reviews. Traditional eco swamp boat on Lake Martin ($25/person). The calmest, quietest option and the **only ADA-accessible dock** on the lake. Air-conditioned waiting area. Best pick if anyone in the group wants to skip the airboat intensity
+- **[Champagne's Cajun Swamp Tours](https://champagnesswamptours.com/)** ([map](https://www.google.com/maps/search/?api=1&query=Champagnes+Cajun+Swamp+Tours+Breaux+Bridge+LA)) (Breaux Bridge) — 4.5 stars with 2,275+ reviews. Traditional eco swamp boat on Lake Martin ($25/person). The calmest, quietest option with easy dock access and an air-conditioned waiting area. Best pick if anyone in the group wants to skip the airboat intensity
 
 <div class="callout callout-gem">
 
@@ -79,10 +79,10 @@ Beyond the boudin and crawfish:
 - Alternatively, stay in a B&B in Breaux Bridge for more character
 - Check for destination chargers — some newer hotels along Evangeline Thruway have them
 
-## Accessibility
+## Terrain & Getting Around
 
 - Vermilionville paths are flat and paved
-- Restaurants are casual, single-story, easy access
+- Restaurants are casual, single-story, easy to get into
 - Breaux Bridge is a small-town walkable grid
 
 <div class="callout callout-warning">

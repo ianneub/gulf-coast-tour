@@ -78,12 +78,12 @@ Reservations are essential for the starred spots. Book well in advance.
 - **[The Roosevelt](https://therooseveltneworleans.com/)** ([map](https://www.google.com/maps/search/?api=1&query=The+Roosevelt+New+Orleans+Waldorf+Astoria+LA)) — grand hotel, great location, check for destination chargers
 - Avoid hotels on Bourbon Street itself — noisy at night
 
-## Accessibility
+## Terrain & Getting Around
 
 - French Quarter sidewalks can be uneven — stick to the main streets (Decatur, Royal, Chartres) for smoother paths
 - Garden District is flat with wide sidewalks
-- WWII Museum is fully accessible
-- Streetcar has designated accessible stops — check the RTA website for specific ones. Canal Street and St. Charles lines serve major areas
+- WWII Museum is flat with smooth paths throughout
+- Streetcar is a fun way to get between the Quarter and Garden District — Canal Street and St. Charles lines serve major areas
 
 <div class="callout callout-warning">
 

@@ -21,7 +21,7 @@ Space Center Houston alone justifies the stop. Add one of America's best and mos
 - Plan a half day (3–4 hours minimum)
 - Tram tour takes you to the actual Saturn V rocket and historic Mission Control
 - Hands-on exhibits, astronaut gallery, space shuttle replica
-- Fully accessible — wheelchairs available at entrance
+- Fully indoor with smooth, flat paths throughout
 
 <figure class="content-photo">
   <img src="https://images.unsplash.com/photo-1614728994041-9a7ce006c57e?w=800&h=500&fit=crop&q=80" alt="Saturn V rocket launch" loading="lazy">
@@ -56,9 +56,9 @@ Houston is one of the most underrated food cities in America. The diversity is s
 - **[Hotel ZaZa Museum District](https://www.hotelzaza.com/houston-museum-district)** ([map](https://www.google.com/maps/search/?api=1&query=Hotel+ZaZa+Museum+District+Houston+TX)) is well-located
 - Check for Tesla destination chargers — several downtown and Galleria-area hotels have them
 
-## Accessibility
+## Terrain & Getting Around
 
-- Space Center Houston is fully accessible with smooth paths and available wheelchairs
+- Space Center Houston is flat with smooth paths throughout
 - Museum District is flat with close parking at each museum
 - Restaurants are all ground-floor, casual to mid-range
 

@@ -7,7 +7,7 @@ permalink: /
 ## Trip Principles
 
 - **Relaxed pace** — most driving days are under 3.5 hours. Two days (Houston, NOLA) have no driving at all.
-- **Accessibility first** — all recommended stops note accessibility. Avoid uneven terrain, steep stairs, and overly crowded venues.
+- **Easy terrain** — all recommended stops note ground conditions. Flat, even surfaces preferred. Flagging steep stairs, cobblestones, and long walks.
 - **Culture, history, food** — that's the thread connecting every stop. No nightlife focus.
 - **Flexibility built in** — the SpaceX opener has buffer days, and each leg can be shortened or extended.
 - **Start full, end full** — if using the Tesla, prefer hotels with destination chargers.

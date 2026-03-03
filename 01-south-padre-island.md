@@ -17,7 +17,7 @@ South Padre Island is ~5–6 miles from [SpaceX's Starbase](https://www.spacex.c
 
 **Viewing spots:**
 - [Isla Blanca Park](https://www.cameroncountytx.gov/parks-coastal-parks/parks-isla-blanca/) ([map](https://www.google.com/maps/search/?api=1&query=Isla+Blanca+Park+South+Padre+Island+TX)) (south tip of SPI) — beach-level view, ~5–6 miles from pad
-- SPI Convention Centre area — paved viewing, easier accessibility
+- SPI Convention Centre area — paved viewing, flat ground
 
 **The reality of launch timing:**
 - Starship launches slip frequently — sometimes by days or weeks
@@ -34,7 +34,7 @@ South Padre Island is ~5–6 miles from [SpaceX's Starbase](https://www.spacex.c
 
 ## Things to Do (Launch or Not)
 
-- **[SPI Birding & Nature Center](https://www.spibirding.org/)** ([map](https://www.google.com/maps/search/?api=1&query=South+Padre+Island+Birding+Nature+Center+TX)) — boardwalk trails through wetlands, great for spotting roseate spoonbills and other shorebirds. Flat, accessible paths.
+- **[SPI Birding & Nature Center](https://www.spibirding.org/)** ([map](https://www.google.com/maps/search/?api=1&query=South+Padre+Island+Birding+Nature+Center+TX)) — boardwalk trails through wetlands, great for spotting roseate spoonbills and other shorebirds. Flat, paved paths.
 - **Beach time** — SPI beaches are wide, uncrowded compared to other Gulf beaches
 - **[Sea Turtle Inc.](https://seaturtleinc.org/)** ([map](https://www.google.com/maps/search/?api=1&query=Sea+Turtle+Inc+South+Padre+Island+TX)) — rescue and rehabilitation center, small but worthwhile
 
@@ -56,8 +56,8 @@ South Padre Island is ~5–6 miles from [SpaceX's Starbase](https://www.spacex.c
 - Look for properties with Tesla destination chargers — several resorts have them
 - Book early if a Starship launch is on the schedule; hotels fill up fast
 
-## Accessibility
+## Terrain & Getting Around
 
 - Beach viewing areas can be sandy — the Convention Centre area has paved spots
-- Birding Center boardwalks are flat and wheelchair-accessible
-- Sea Turtle Inc. is small, indoor, accessible
+- Birding Center boardwalks are flat and paved
+- Sea Turtle Inc. is small and indoor — easy walk

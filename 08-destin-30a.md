@@ -69,7 +69,7 @@ The 24-mile stretch of road connecting a string of planned beach communities, ea
 - Vacation rental houses can be great for a group — more space and often better value
 - Destin has more standard hotel/resort options if you prefer that
 
-## Accessibility
+## Terrain & Getting Around
 
 - 30A towns are designed for walkability — flat, compact, well-maintained sidewalks
 - Seaside, Rosemary Beach, and Alys Beach are all very walkable
@@ -77,7 +77,7 @@ The 24-mile stretch of road connecting a string of planned beach communities, ea
   - Henderson Beach State Park has boardwalk access to the beach
   - Seaside has a paved path to the beach pavilion
   - Some public access points are sand-only — check individual walkovers
-- Most 30A restaurants are ground-floor with easy access
+- Most 30A restaurants are ground-floor, easy to get into
 
 ## Trip's End
 
