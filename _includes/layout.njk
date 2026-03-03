@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ title }} — Gulf Coast Tour</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,700;0,900;1,700&family=Source+Sans+3:wght@400;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+
+  <nav class="nav">
+    <div class="nav-inner">
+      <a href="/" class="nav-brand">Gulf Coast Tour</a>
+      <button class="nav-toggle" aria-label="Toggle navigation" aria-expanded="false">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+      <ul class="nav-links">
+        {% set legsArr = collections.legs %}
+        {% for leg in legsArr %}
+          {% set shortName = leg.data.title | replace(", TX", "") | replace(", LA", "") | replace(", FL", "") | replace(", AL", "") %}
+          {% if "Lafayette / Cajun Country" in shortName %}
+            {% set shortName = "Cajun Country" %}
+          {% elif "Gulf Coast MS & Mobile" in shortName %}
+            {% set shortName = "MS & Mobile" %}
+          {% endif %}
+          <li><a href="{{ leg.url }}"{% if leg.url == page.url %} class="active"{% endif %}>{{ shortName }}</a></li>
+        {% endfor %}
+        <li><a href="/logistics/"{% if page.url == "/logistics/" %} class="active"{% endif %}>Logistics</a></li>
+      </ul>
+    </div>
+  </nav>
+
+  {% if tags == "leg" or (tags and "leg" in tags) %}
+  {% set legsArr = collections.legs %}
+  <div class="route-progress">
+    <div class="route-progress-inner">
+      {% for leg in legsArr %}
+        {% if not loop.first %}
+          <div class="route-line{% if leg.data.order <= order %} visited{% endif %}"></div>
+        {% endif %}
+        <div class="route-stop{% if leg.data.order == order %} current{% elif leg.data.order < order %} visited{% endif %}">
+          <div class="route-dot"></div>
+          <div class="route-label">{{ leg.data.leg }}</div>
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+  {% endif %}
+
+  <main class="content">
+    <header class="page-header">
+      <h1>{{ title }}</h1>
+      {% if days %}
+        <p class="page-meta">Days {{ days }} · {{ driveTime }}</p>
+      {% endif %}
+      {% if mustSee %}
+        <div class="callout callout-must-see">
+          <strong>Must-See:</strong> {{ mustSee }}
+        </div>
+      {% endif %}
+    </header>
+
+    <article class="page-body">
+      {{ content | safe }}
+    </article>
+
+    {% if tags == "leg" or (tags and "leg" in tags) %}
+    {% set legsArr = collections.legs %}
+    {% set prevLeg = null %}
+    {% set nextLeg = null %}
+    {% for leg in legsArr %}
+      {% if leg.data.order == order - 1 %}
+        {% set prevLeg = leg %}
+      {% endif %}
+      {% if leg.data.order == order + 1 %}
+        {% set nextLeg = leg %}
+      {% endif %}
+    {% endfor %}
+    <nav class="prev-next">
+      {% if prevLeg %}
+        <a href="{{ prevLeg.url }}" class="prev-next-link prev-next-prev">&#8592; {{ prevLeg.data.title }}</a>
+      {% else %}
+        <span></span>
+      {% endif %}
+      {% if nextLeg %}
+        <a href="{{ nextLeg.url }}" class="prev-next-link prev-next-next">{{ nextLeg.data.title }} &#8594;</a>
+      {% else %}
+        <span></span>
+      {% endif %}
+    </nav>
+    {% endif %}
+  </main>
+
+  <footer class="footer">
+    <p>Gulf Coast Tour — South Padre Island to the Emerald Coast</p>
+  </footer>
+
+  <script>
+    (function() {
+      var toggle = document.querySelector('.nav-toggle');
+      var links = document.querySelector('.nav-links');
+      toggle.addEventListener('click', function() {
+        links.classList.toggle('open');
+        toggle.setAttribute('aria-expanded', links.classList.contains('open'));
+      });
+      // Close menu when a link is clicked (mobile UX)
+      links.querySelectorAll('a').forEach(function(link) {
+        link.addEventListener('click', function() {
+          links.classList.remove('open');
+          toggle.setAttribute('aria-expanded', 'false');
+        });
+      });
+    })();
+  </script>
+
+</body>
+</html>

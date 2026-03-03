@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ title }}</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,700;0,900;1,700&family=Source+Sans+3:wght@400;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/css/style.css">
+</head>
+<body class="home">
+
+  <nav class="nav">
+    <div class="nav-inner">
+      <a href="/" class="nav-brand">Gulf Coast Tour</a>
+      <button class="nav-toggle" aria-label="Toggle navigation" aria-expanded="false">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+      <ul class="nav-links">
+        {% set legsArr = collections.legs %}
+        {% for leg in legsArr %}
+          {% set shortName = leg.data.title | replace(", TX", "") | replace(", LA", "") | replace(", FL", "") | replace(", AL", "") %}
+          {% if "Lafayette / Cajun Country" in shortName %}
+            {% set shortName = "Cajun Country" %}
+          {% elif "Gulf Coast MS & Mobile" in shortName %}
+            {% set shortName = "MS & Mobile" %}
+          {% endif %}
+          <li><a href="{{ leg.url }}">{{ shortName }}</a></li>
+        {% endfor %}
+        <li><a href="/logistics/">Logistics</a></li>
+      </ul>
+    </div>
+  </nav>
+
+  <section class="hero">
+    <p class="hero-label">A Gulf Coast Driving Tour</p>
+    <h1 class="hero-title">
+      South Padre Island<br>
+      <span class="hero-to">to the</span><br>
+      Emerald Coast
+    </h1>
+    <div class="hero-stats">
+      <div class="hero-stat">
+        <span class="hero-stat-value">10</span>
+        <span class="hero-stat-label">Days</span>
+      </div>
+      <div class="hero-stat">
+        <span class="hero-stat-value">1,400</span>
+        <span class="hero-stat-label">Miles</span>
+      </div>
+      <div class="hero-stat">
+        <span class="hero-stat-value">8</span>
+        <span class="hero-stat-label">Stops</span>
+      </div>
+    </div>
+  </section>
+
+  <section class="destinations">
+    <h2 class="section-title">The Route</h2>
+    <div class="destination-grid">
+      {% set legsArr = collections.legs %}
+      {% for leg in legsArr %}
+        <a href="{{ leg.url }}" class="destination-card">
+          <span class="destination-card-number">{{ leg.data.leg }}</span>
+          <h3 class="destination-card-title">{{ leg.data.title }}</h3>
+          <p class="destination-card-days">Days {{ leg.data.days }}</p>
+          {% if leg.data.mustSee %}
+            <p class="destination-card-must-see">{{ leg.data.mustSee }}</p>
+          {% endif %}
+          {% if leg.data.driveTime %}
+            <p class="destination-card-drive">{{ leg.data.driveTime }}</p>
+          {% endif %}
+        </a>
+      {% endfor %}
+    </div>
+  </section>
+
+  <section class="overview-content">
+    {{ content | safe }}
+  </section>
+
+  <footer class="footer">
+    <p>Gulf Coast Tour — South Padre Island to the Emerald Coast</p>
+  </footer>
+
+  <script>
+    (function() {
+      var toggle = document.querySelector('.nav-toggle');
+      var links = document.querySelector('.nav-links');
+      toggle.addEventListener('click', function() {
+        links.classList.toggle('open');
+        toggle.setAttribute('aria-expanded', links.classList.contains('open'));
+      });
+      // Close menu when a link is clicked (mobile UX)
+      links.querySelectorAll('a').forEach(function(link) {
+        link.addEventListener('click', function() {
+          links.classList.remove('open');
+          toggle.setAttribute('aria-expanded', 'false');
+        });
+      });
+    })();
+  </script>
+
+</body>
+</html>
