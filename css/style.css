@@ -164,6 +164,26 @@ a:hover {
   text-align: center;
   padding: var(--space-3xl) var(--space-md) var(--space-2xl);
   background: linear-gradient(180deg, var(--color-bg) 0%, #f7eddb 100%);
+  position: relative;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.hero-overlay {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    to bottom,
+    rgba(29, 53, 87, 0.7) 0%,
+    rgba(29, 53, 87, 0.5) 50%,
+    rgba(253, 246, 236, 0.95) 100%
+  );
+}
+
+.hero-inner {
+  position: relative;
+  z-index: 1;
 }
 
 .hero-label {
@@ -172,7 +192,7 @@ a:hover {
   font-size: 0.85rem;
   text-transform: uppercase;
   letter-spacing: 0.15em;
-  color: var(--color-text-muted);
+  color: rgba(255, 255, 255, 0.85);
   margin: 0 0 var(--space-sm);
 }
 
@@ -182,7 +202,7 @@ a:hover {
   font-size: clamp(2.5rem, 6vw, 4.5rem);
   line-height: 1.1;
   letter-spacing: -0.02em;
-  color: var(--color-headline);
+  color: #FFFFFF;
   margin: 0 0 var(--space-xl);
 }
 
@@ -190,7 +210,7 @@ a:hover {
   font-weight: 700;
   font-style: italic;
   font-size: 0.6em;
-  color: var(--color-text-muted);
+  color: rgba(255, 255, 255, 0.8);
 }
 
 .hero-stats {
@@ -220,7 +240,7 @@ a:hover {
   font-size: 0.75rem;
   text-transform: uppercase;
   letter-spacing: 0.12em;
-  color: var(--color-text-muted);
+  color: rgba(255, 255, 255, 0.8);
   margin-top: 4px;
 }
 
@@ -313,6 +333,46 @@ a:hover {
   letter-spacing: 0.06em;
   color: var(--color-text-muted);
   margin: 0;
+}
+
+/* --- Destination Card Images --- */
+.destination-card-image {
+  margin: -32px -24px 16px -24px;
+  border-radius: var(--radius) var(--radius) 0 0;
+  overflow: hidden;
+  aspect-ratio: 3 / 2;
+}
+
+.destination-card-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.3s ease;
+}
+
+.destination-card:hover .destination-card-image img {
+  transform: scale(1.05);
+}
+
+/* --- Page Hero Banner (leg pages) --- */
+.page-hero {
+  width: 100%;
+  height: 280px;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  position: relative;
+}
+
+.page-hero-overlay {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    to bottom,
+    transparent 0%,
+    rgba(253, 246, 236, 0.3) 60%,
+    rgba(253, 246, 236, 1) 100%
+  );
 }
 
 /* --- Route Progress Bar --- */
@@ -783,6 +843,14 @@ a:hover {
 
 /* --- Responsive: Mobile (max-width: 767px) --- */
 @media (max-width: 767px) {
+  .page-hero {
+    height: 200px;
+  }
+
+  .destination-card-image {
+    margin: -32px -24px 16px -24px;
+  }
+
   .destination-grid {
     grid-template-columns: 1fr;
     gap: var(--space-md);

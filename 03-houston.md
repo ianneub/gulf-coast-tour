@@ -7,6 +7,8 @@ leg: 3
 mustSee: "Space Center Houston"
 driveTime: "~3 hrs from SA"
 days: "3–4"
+image: "https://images.unsplash.com/photo-1666610278692-51058ed05e9a?w=1200&h=600&fit=crop&q=80"
+imageCard: "https://images.unsplash.com/photo-1666610278692-51058ed05e9a?w=600&h=400&fit=crop&q=80"
 ---
 
 ## Why Houston

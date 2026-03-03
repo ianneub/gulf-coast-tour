@@ -7,6 +7,8 @@ leg: 1
 mustSee: "SpaceX Starship launch (if timing works)"
 driveTime: "Starting point"
 days: "0–1"
+image: "https://images.unsplash.com/photo-1562036656-33f22c4ba88b?w=1200&h=600&fit=crop&q=80"
+imageCard: "https://images.unsplash.com/photo-1562036656-33f22c4ba88b?w=600&h=400&fit=crop&q=80"
 ---
 
 ## SpaceX Starship Launch

@@ -7,6 +7,8 @@ leg: 6
 mustSee: "Ocean Springs art walk & Mobile Carnival Museum"
 driveTime: "~2.5 hrs from NOLA"
 days: "8"
+image: "https://images.unsplash.com/photo-1648432824441-c7ffe287d110?w=1200&h=600&fit=crop&q=80"
+imageCard: "https://images.unsplash.com/photo-1648432824441-c7ffe287d110?w=600&h=400&fit=crop&q=80"
 ---
 
 ## Mississippi Gulf Coast Stop

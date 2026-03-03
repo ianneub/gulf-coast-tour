@@ -7,6 +7,8 @@ leg: 5
 mustSee: "National WWII Museum & Commander's Palace"
 driveTime: "~2.5 hrs from Lafayette"
 days: "6–7"
+image: "https://images.unsplash.com/photo-1568693059993-a239b9cd4957?w=1200&h=600&fit=crop&q=80"
+imageCard: "https://images.unsplash.com/photo-1568693059993-a239b9cd4957?w=600&h=400&fit=crop&q=80"
 ---
 
 ## Why Two Nights

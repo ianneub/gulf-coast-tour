@@ -7,6 +7,8 @@ leg: 7
 mustSee: "National Naval Aviation Museum (free!)"
 driveTime: "~1 hr from Mobile"
 days: "9"
+image: "https://images.unsplash.com/photo-1537160833943-1b610e77231c?w=1200&h=600&fit=crop&q=80"
+imageCard: "https://images.unsplash.com/photo-1537160833943-1b610e77231c?w=600&h=400&fit=crop&q=80"
 ---
 
 ## Why Pensacola

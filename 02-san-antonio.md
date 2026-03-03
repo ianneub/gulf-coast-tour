@@ -7,6 +7,8 @@ leg: 2
 mustSee: "The Alamo & San Antonio Missions (UNESCO)"
 driveTime: "~4.5 hrs from SPI"
 days: "2–3"
+image: "https://images.unsplash.com/photo-1692193483739-0e378f2eec45?w=1200&h=600&fit=crop&q=80"
+imageCard: "https://images.unsplash.com/photo-1692193483739-0e378f2eec45?w=600&h=400&fit=crop&q=80"
 ---
 
 ## Why San Antonio

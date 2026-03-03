@@ -35,25 +35,28 @@
     </div>
   </nav>
 
-  <section class="hero">
-    <p class="hero-label">A Gulf Coast Driving Tour</p>
-    <h1 class="hero-title">
-      South Padre Island<br>
-      <span class="hero-to">to the</span><br>
-      Emerald Coast
-    </h1>
-    <div class="hero-stats">
-      <div class="hero-stat">
-        <span class="hero-stat-value">10</span>
-        <span class="hero-stat-label">Days</span>
-      </div>
-      <div class="hero-stat">
-        <span class="hero-stat-value">1,400</span>
-        <span class="hero-stat-label">Miles</span>
-      </div>
-      <div class="hero-stat">
-        <span class="hero-stat-value">8</span>
-        <span class="hero-stat-label">Stops</span>
+  <section class="hero" style="background-image: url('https://images.unsplash.com/photo-1578612818852-d6b85c0c0ef6?w=1600&h=800&fit=crop&q=80');">
+    <div class="hero-overlay"></div>
+    <div class="hero-inner">
+      <p class="hero-label">A Gulf Coast Driving Tour</p>
+      <h1 class="hero-title">
+        South Padre Island<br>
+        <span class="hero-to">to the</span><br>
+        Emerald Coast
+      </h1>
+      <div class="hero-stats">
+        <div class="hero-stat">
+          <span class="hero-stat-value">10</span>
+          <span class="hero-stat-label">Days</span>
+        </div>
+        <div class="hero-stat">
+          <span class="hero-stat-value">1,400</span>
+          <span class="hero-stat-label">Miles</span>
+        </div>
+        <div class="hero-stat">
+          <span class="hero-stat-value">8</span>
+          <span class="hero-stat-label">Stops</span>
+        </div>
       </div>
     </div>
   </section>
@@ -64,6 +67,11 @@
       {% set legsArr = collections.legs %}
       {% for leg in legsArr %}
         <a href="{{ leg.url | url }}" class="destination-card">
+          {% if leg.data.imageCard %}
+            <div class="destination-card-image">
+              <img src="{{ leg.data.imageCard }}" alt="{{ leg.data.title }}" loading="lazy">
+            </div>
+          {% endif %}
           <span class="destination-card-number">{{ leg.data.leg }}</span>
           <h3 class="destination-card-title">{{ leg.data.title }}</h3>
           <p class="destination-card-days">Days {{ leg.data.days }}</p>

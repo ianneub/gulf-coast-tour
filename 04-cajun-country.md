@@ -7,6 +7,8 @@ leg: 4
 mustSee: "Boudin Trail & Vermilionville"
 driveTime: "~3.5 hrs from Houston"
 days: "5"
+image: "https://images.unsplash.com/photo-1597179874248-905a95903827?w=1200&h=600&fit=crop&q=80"
+imageCard: "https://images.unsplash.com/photo-1597179874248-905a95903827?w=600&h=400&fit=crop&q=80"
 ---
 
 ## Why Cajun Country
