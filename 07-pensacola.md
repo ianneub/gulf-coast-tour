@@ -24,6 +24,11 @@ Pensacola blends military history, Spanish colonial roots, and genuine Gulf Coas
 - Plan 2–3 hours
 - Fully accessible with smooth paths throughout
 
+<figure class="content-photo">
+  <img src="https://images.unsplash.com/photo-1621438080156-f7a66f88a423?w=800&h=500&fit=crop&q=80" alt="Blue Angels jets flying in formation" loading="lazy">
+  <figcaption>The Blue Angels — based at NAS Pensacola, you might catch a practice session from the museum grounds</figcaption>
+</figure>
+
 ### [Historic Pensacola Village](https://historicpensacola.org/) ([map](https://www.google.com/maps/search/?api=1&query=Historic+Pensacola+Village+FL))
 - Collection of historic homes and museums from the colonial era through the Civil War
 - Compact cluster in Seville Quarter — easy to walk through in 1–2 hours
@@ -34,9 +39,19 @@ Pensacola blends military history, Spanish colonial roots, and genuine Gulf Coas
 - **Fort Barrancas** — on the Naval Air Station grounds, smaller, accessible
 - **Fort Pickens** — on Santa Rosa Island, larger, where Geronimo was held as prisoner. Paved paths to main areas but some sandy stretches
 
+<figure class="content-photo">
+  <img src="https://images.unsplash.com/photo-1755974420083-b1c8c9cd3037?w=800&h=500&fit=crop&q=80" alt="Blue Angels F/A-18 in flight" loading="lazy">
+  <figcaption>Naval aviation history comes alive in Pensacola</figcaption>
+</figure>
+
 ### Palafox Street Downtown ([map](https://www.google.com/maps/search/?api=1&query=Palafox+Street+Downtown+Pensacola+FL))
 - The main downtown strip — restored historic buildings, galleries, restaurants
 - Good for an afternoon or evening stroll
+
+<figure class="content-photo">
+  <img src="https://images.unsplash.com/photo-1537160833943-1b610e77231c?w=800&h=500&fit=crop&q=80" alt="Pensacola Beach white sand" loading="lazy">
+  <figcaption>Pensacola Beach — where the sand turns white and the water turns emerald</figcaption>
+</figure>
 
 ## Food
 

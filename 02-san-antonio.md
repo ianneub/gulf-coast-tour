@@ -22,16 +22,31 @@ The Alamo and the San Antonio Missions are some of the best-preserved Spanish co
 - Plan ~1 hour. It's smaller than you'd expect but the history is rich
 - Go early to avoid crowds
 
+<figure class="content-photo">
+  <img src="https://images.unsplash.com/photo-1677648729841-775fd81c1455?w=800&h=500&fit=crop&q=80" alt="The Alamo in San Antonio" loading="lazy">
+  <figcaption>The Alamo — smaller than you'd expect, but the history is immense</figcaption>
+</figure>
+
 ### [San Antonio Missions National Historical Park](https://www.nps.gov/saan/index.htm) ([map](https://www.google.com/maps/search/?api=1&query=San+Antonio+Missions+National+Historical+Park+TX)) (UNESCO)
 - Four missions south of downtown along the Mission Trail
 - **[Mission San José](https://www.nps.gov/saan/index.htm)** ([map](https://www.google.com/maps/search/?api=1&query=Mission+San+Jose+San+Antonio+TX)) ("Queen of the Missions") is the must-see — beautifully restored, impressive scale
 - Drive between them (~15 min apart) or bike the Mission Trail
+
+<figure class="content-photo">
+  <img src="https://images.unsplash.com/photo-1634508945052-0a283b599382?w=800&h=500&fit=crop&q=80" alt="Interior of a San Antonio mission church" loading="lazy">
+  <figcaption>Inside one of the San Antonio Missions — a UNESCO World Heritage Site</figcaption>
+</figure>
 
 ### [River Walk](https://www.thesanantonioriverwalk.com/) ([map](https://www.google.com/maps/search/?api=1&query=San+Antonio+River+Walk+TX))
 - 15-mile network of walkways along the San Antonio River, one level below street grade
 - Flat, paved, shaded by trees and buildings
 - Perfect for an evening stroll before or after dinner
 - Runs right past the Alamo, hotels, and restaurants
+
+<figure class="content-photo">
+  <img src="https://images.unsplash.com/photo-1605649666555-e321522c3023?w=800&h=500&fit=crop&q=80" alt="San Antonio River Walk with tour boats" loading="lazy">
+  <figcaption>The River Walk — 15 miles of shaded, flat walkways along the San Antonio River</figcaption>
+</figure>
 
 ### [Pearl District](https://atpearl.com/) ([map](https://www.google.com/maps/search/?api=1&query=Pearl+District+San+Antonio+TX))
 - Restored 1880s brewery turned food, culture, and shopping hub

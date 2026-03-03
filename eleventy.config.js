@@ -14,6 +14,17 @@ export default function(eleventyConfig) {
     });
   });
 
+  // Make external links open in a new tab
+  eleventyConfig.addTransform("externalLinks", function(content) {
+    if (this.page.outputPath && this.page.outputPath.endsWith(".html")) {
+      return content.replace(
+        /<a\s+href="(https?:\/\/[^"]+)"/g,
+        '<a href="$1" target="_blank" rel="noopener noreferrer"'
+      );
+    }
+    return content;
+  });
+
   return {
     dir: {
       input: ".",

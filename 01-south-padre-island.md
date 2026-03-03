@@ -27,11 +27,22 @@ South Padre Island is ~5–6 miles from [SpaceX's Starbase](https://www.spacex.c
 
 **If a launch is scheduled:** The area gets crowded. Arrive at your viewing spot several hours early. Road closures on Highway 4 (Boca Chica Beach road) are common on launch days.
 
+<figure class="content-photo">
+  <img src="https://images.unsplash.com/photo-1541185933-ef5d8ed016c2?w=800&h=500&fit=crop&q=80" alt="SpaceX rocket launch" loading="lazy">
+  <figcaption>A SpaceX launch as seen from the coast — South Padre Island offers front-row seats to Starship flights</figcaption>
+</figure>
+
 ## Things to Do (Launch or Not)
 
 - **[SPI Birding & Nature Center](https://www.spibirding.org/)** ([map](https://www.google.com/maps/search/?api=1&query=South+Padre+Island+Birding+Nature+Center+TX)) — boardwalk trails through wetlands, great for spotting roseate spoonbills and other shorebirds. Flat, accessible paths.
 - **Beach time** — SPI beaches are wide, uncrowded compared to other Gulf beaches
 - **[Sea Turtle Inc.](https://seaturtleinc.org/)** ([map](https://www.google.com/maps/search/?api=1&query=Sea+Turtle+Inc+South+Padre+Island+TX)) — rescue and rehabilitation center, small but worthwhile
+
+<figure class="content-photo">
+  <img src="https://images.unsplash.com/photo-1437622368342-7a3d73a34c8f?w=800&h=500&fit=crop&q=80" alt="Sea turtle swimming underwater" loading="lazy">
+  <figcaption>Sea Turtle Inc. rehabilitates and releases sea turtles back into the Gulf</figcaption>
+</figure>
+
 - **Fishing / dolphin tours** — several operators on the bay side
 
 ## Food

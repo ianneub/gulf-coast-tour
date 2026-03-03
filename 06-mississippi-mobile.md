@@ -22,6 +22,11 @@ Break up the NOLA-to-Mobile drive with a stop in coastal Mississippi. Two good o
 - Good lunch spot: **Vestige** ([map](https://www.google.com/maps/search/?api=1&query=Vestige+Restaurant+Ocean+Springs+MS)) (upscale Southern)
 - Compact and walkable — 1–2 hours is perfect
 
+<figure class="content-photo">
+  <img src="https://images.unsplash.com/photo-1759503615270-ab0f0de953d4?w=800&h=500&fit=crop&q=80" alt="Charming coastal village" loading="lazy">
+  <figcaption>The charm of Gulf Coast small towns — Ocean Springs is an arts community worth the stop</figcaption>
+</figure>
+
 ### Option B: Biloxi, MS
 - More touristy, casino-heavy, but has genuine Gulf Coast history
 - **[Biloxi Lighthouse](https://biloxi.ms.us/visitor-info/museums/lighthouse/)** ([map](https://www.google.com/maps/search/?api=1&query=Biloxi+Lighthouse+Mississippi)) — one of the first cast-iron lighthouses in the South, survived Katrina
@@ -38,7 +43,19 @@ Mobile is deeply historic and perpetually underrated. It's the original Mardi Gr
 
 - **Historic downtown** — [Cathedral of the Immaculate Conception](https://mobilecathedral.org/) ([map](https://www.google.com/maps/search/?api=1&query=Cathedral+Immaculate+Conception+Mobile+AL)) (stunning interior), [Fort Condé](https://www.historymuseumofmobile.com/colonial-fort-conde/) ([map](https://www.google.com/maps/search/?api=1&query=Fort+Conde+Mobile+AL)) (reconstructed French colonial fort, free)
 - **[Mobile Carnival Museum](https://mobilecarnivalmuseum.com/)** ([map](https://www.google.com/maps/search/?api=1&query=Mobile+Carnival+Museum+AL)) — the story of the original Mardi Gras, elaborate costume displays
+
+<figure class="content-photo">
+  <img src="https://images.unsplash.com/photo-1703145217874-47c91be335e0?w=800&h=500&fit=crop&q=80" alt="Mardi Gras parade" loading="lazy">
+  <figcaption>Mobile is the original Mardi Gras city — predating New Orleans by 15 years</figcaption>
+</figure>
+
 - **[USS Alabama Battleship Memorial Park](https://www.ussalabama.com/)** ([map](https://www.google.com/maps/search/?api=1&query=USS+Alabama+Battleship+Memorial+Park+Mobile+AL)) — WWII battleship and submarine you can tour. Impressive but has steep ship stairs and ladders — assess based on group's comfort
+
+<figure class="content-photo">
+  <img src="https://images.unsplash.com/flagged/photo-1554131297-39877b87bddf?w=800&h=500&fit=crop&q=80" alt="WWII battleship on the water" loading="lazy">
+  <figcaption>A WWII-era battleship — the USS Alabama is one of Mobile's most striking landmarks</figcaption>
+</figure>
+
 - **[Bellingrath Gardens](https://bellingrath.org/)** ([map](https://www.google.com/maps/search/?api=1&query=Bellingrath+Gardens+Theodore+AL)) — 65-acre estate garden south of town, beautiful in any season. Paved paths, accessible
 
 ### Food

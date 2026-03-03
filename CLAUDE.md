@@ -4,14 +4,34 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-This is a trip planning workspace for a Gulf Coast tour of the USA. All planning materials are stored as Markdown files — there is no application code, build system, or test suite.
+This is a Gulf Coast tour planning workspace that doubles as an Eleventy (11ty) static website — a travel brochure the group can browse at https://ianneub.github.io/gulf-coast-tour/
+
+## Tech Stack
+
+- **Eleventy 3.x** (ESM config at `eleventy.config.js`) — converts markdown to HTML
+- **Nunjucks templates** in `_includes/` — `home.njk` (home page) and `layout.njk` (leg/logistics pages)
+- **Single CSS file** at `css/style.css` — editorial travel journal aesthetic
+- **GitHub Actions** deploys to GitHub Pages on push to `main` (`.github/workflows/deploy.yml`)
+- **Unsplash photos** hotlinked via CDN — image URLs stored in frontmatter (`image`, `imageCard`)
+- `pathPrefix: "/gulf-coast-tour/"` is set in the Eleventy config — use `| url` filter on all internal hrefs in templates
+
+## Common Commands
+
+- `npm run serve` — local dev server with hot reload at http://localhost:8080
+- `npm run build` — build to `_site/`
+- Push to `main` to deploy
 
 ## Structure
 
-- Itinerary, destination notes, logistics, and other trip details are organized as `.md` files in this directory
-- `overview.md` — master itinerary with route summary and links to each leg
-- `01-south-padre-island.md` through `08-destin-30a.md` — detailed files per stop/leg
-- Additional files as needed (e.g., `packing-list.md`, `budget.md`, `reservations.md`)
+- `overview.md` — home page (uses `home.njk` layout, `permalink: /`)
+- `01-south-padre-island.md` through `08-destin-30a.md` — one file per leg (uses `layout.njk`, tagged `leg`)
+- `travel-logistics.md` — flight/transport info (uses `layout.njk`, `permalink: /logistics/`)
+- `_includes/` — Nunjucks templates
+- `css/style.css` — all styles
+- `docs/plans/` — design docs (excluded from build)
+- `CLAUDE.md` — excluded from build
+
+Each leg markdown file has YAML frontmatter: `title`, `layout`, `tags`, `order`, `leg`, `mustSee`, `driveTime`, `days`, `image`, `imageCard`
 
 ## Role: Tour Guide & Trip Advisor
 
@@ -34,6 +54,8 @@ Act as an experienced Gulf Coast tour guide throughout this project:
 
 ## Conventions
 
-- Use Markdown for all content
+- Use Markdown for all content — it's both the source of truth and what Eleventy renders
 - Dates should use `YYYY-MM-DD` format for consistency and sorting
 - Keep files focused on a single topic; link between them with relative paths when referencing related info
+- When adding places, include website links and Google Maps links: `**[Place](https://site.com/)** ([map](https://www.google.com/maps/search/?api=1&query=Place+City+ST))`
+- Verify venues are still open before adding — several original recommendations had closed

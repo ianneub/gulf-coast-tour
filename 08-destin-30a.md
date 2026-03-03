@@ -20,7 +20,18 @@ After 9 days of culture, history, and incredible food, the Emerald Coast is the 
 ### [Scenic Highway 30A](https://30a.com/) ([map](https://www.google.com/maps/search/?api=1&query=Scenic+Highway+30A+Florida))
 The 24-mile stretch of road connecting a string of planned beach communities, each with its own character:
 
+<figure class="content-photo">
+  <img src="https://images.unsplash.com/photo-1723714521356-13b98f25f61f?w=800&h=500&fit=crop&q=80" alt="Crystal clear emerald water on white sand" loading="lazy">
+  <figcaption>The Emerald Coast — the water really is this color</figcaption>
+</figure>
+
 - **[Seaside](https://seasidefl.com/)** ([map](https://www.google.com/maps/search/?api=1&query=Seaside+Florida)) — the original New Urbanist town, famously the filming location of *The Truman Show*. Central square with food trucks, an amphitheater, and a bookshop ([Sundog Books](https://sundogbooks.com/) ([map](https://www.google.com/maps/search/?api=1&query=Sundog+Books+Seaside+FL))). Very walkable
+
+<figure class="content-photo">
+  <img src="https://images.unsplash.com/photo-1746581260591-bd5e53dd6f8f?w=800&h=500&fit=crop&q=80" alt="Emerald green Gulf water meeting sandy beach" loading="lazy">
+  <figcaption>Seaside and the 30A beach towns — where they filmed The Truman Show</figcaption>
+</figure>
+
 - **[Rosemary Beach](https://www.rosemarybeachfl.org/)** ([map](https://www.google.com/maps/search/?api=1&query=Rosemary+Beach+Florida)) — more upscale, European-inspired architecture, excellent restaurants and shops. Compact and beautiful
 - **[Alys Beach](https://alysbeach.com/)** ([map](https://www.google.com/maps/search/?api=1&query=Alys+Beach+Florida)) — striking white Bermudian architecture, the most visually dramatic town on 30A
 - **Grayton Beach** — the oldest community on 30A, more laid-back and artsy
@@ -30,6 +41,11 @@ The 24-mile stretch of road connecting a string of planned beach communities, ea
 - **[Grayton Beach State Park](https://www.floridastateparks.org/graytonbeach)** ([map](https://www.google.com/maps/search/?api=1&query=Grayton+Beach+State+Park+FL)) — consistently rated among the best beaches in America. Coastal dune lakes, nature trails, stunning sand
 - **[Henderson Beach State Park](https://www.floridastateparks.org/parks-and-trails/henderson-beach-state-park)** ([map](https://www.google.com/maps/search/?api=1&query=Henderson+Beach+State+Park+Destin+FL)) — in Destin, less crowded than public beaches, gorgeous emerald water, boardwalk access
 - **Seaside Beach** — right below the town, easy access
+
+<figure class="content-photo">
+  <img src="https://images.unsplash.com/photo-1599163174538-8a5ad89299c3?w=800&h=500&fit=crop&q=80" alt="Beach day in Destin, Florida" loading="lazy">
+  <figcaption>White sugar sand and emerald water — the perfect way to end the tour</figcaption>
+</figure>
 
 ### If You Want One More Activity
 

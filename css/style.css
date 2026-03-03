@@ -788,6 +788,36 @@ a:hover {
   border-radius: 0 var(--radius) var(--radius) 0;
 }
 
+/* Content Photos */
+.content-photo {
+  margin: var(--space-xl) calc(-1 * var(--space-lg));
+  border-radius: var(--radius);
+  overflow: hidden;
+}
+
+.content-photo img {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: var(--radius);
+}
+
+.content-photo figcaption {
+  font-family: var(--font-body);
+  font-size: 0.85rem;
+  color: var(--color-text-muted);
+  text-align: center;
+  padding: var(--space-sm) var(--space-md);
+  font-style: italic;
+}
+
+@media (max-width: 767px) {
+  .content-photo {
+    margin-left: calc(-1 * var(--space-sm));
+    margin-right: calc(-1 * var(--space-sm));
+  }
+}
+
 /* --- Focus / Accessibility --- */
 *:focus-visible {
   outline: 2px solid var(--color-accent);

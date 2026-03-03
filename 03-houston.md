@@ -23,6 +23,11 @@ Space Center Houston alone justifies the stop. Add one of America's best and mos
 - Hands-on exhibits, astronaut gallery, space shuttle replica
 - Fully accessible — wheelchairs available at entrance
 
+<figure class="content-photo">
+  <img src="https://images.unsplash.com/photo-1614728994041-9a7ce006c57e?w=800&h=500&fit=crop&q=80" alt="Saturn V rocket launch" loading="lazy">
+  <figcaption>The Saturn V rocket — you can see the real thing at Space Center Houston</figcaption>
+</figure>
+
 ### Museum District
 - 19 museums in a compact, walkable area
 - **[Menil Collection](https://www.menil.org/)** ([map](https://www.google.com/maps/search/?api=1&query=Menil+Collection+Houston+TX)) — free, world-class modern art in a serene Renzo Piano building
@@ -33,6 +38,11 @@ Space Center Houston alone justifies the stop. Add one of America's best and mos
 ## Food
 
 Houston is one of the most underrated food cities in America. The diversity is staggering.
+
+<figure class="content-photo">
+  <img src="https://images.unsplash.com/photo-1558030006-450675393462?w=800&h=500&fit=crop&q=80" alt="Smoked BBQ brisket" loading="lazy">
+  <figcaption>Texas BBQ — Houston is home to some of the best brisket in the state</figcaption>
+</figure>
 
 - **[Truth BBQ](https://truthbbq.com/)** ([map](https://www.google.com/maps/search/?api=1&query=Truth+BBQ+Houston+TX)) — regularly ranked among the best BBQ in Texas. Brisket, ribs, banana pudding. Go early, lines form
 - **[Original Ninfa's on Navigation](https://ninfas.com/)** ([map](https://www.google.com/maps/search/?api=1&query=Original+Ninfas+on+Navigation+Houston+TX)) — the birthplace of fajitas. Tex-Mex legend

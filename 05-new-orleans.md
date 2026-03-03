@@ -23,10 +23,20 @@ New Orleans rewards slow exploration. Rushing NOLA is a crime. Two nights lets y
 - **[Café Du Monde](https://shop.cafedumonde.com/)** ([map](https://www.google.com/maps/search/?api=1&query=Cafe+Du+Monde+New+Orleans+LA)) — beignets and chicory coffee. Go early morning or late afternoon to avoid the worst lines
 - Walk at your own pace — the Quarter is compact (~13 blocks by 6 blocks)
 
+<figure class="content-photo">
+  <img src="https://images.unsplash.com/photo-1617893620448-3b4e44fd57dc?w=800&h=500&fit=crop&q=80" alt="St. Louis Cathedral in Jackson Square, New Orleans" loading="lazy">
+  <figcaption>St. Louis Cathedral in Jackson Square — the heart of the French Quarter</figcaption>
+</figure>
+
 ### Garden District ([map](https://www.google.com/maps/search/?api=1&query=Garden+District+New+Orleans+LA))
 - Stunning antebellum mansions, oak-lined streets
 - **St. Louis Cemetery No. 1** — the iconic above-ground cemetery. Note: visits require a licensed tour guide (book in advance through Save Our Cemeteries or similar). Lafayette Cemetery No. 1 has been closed to the public since 2019 for restoration
 - **Magazine Street** ([map](https://www.google.com/maps/search/?api=1&query=Magazine+Street+New+Orleans+LA)) — six miles of shops, galleries, restaurants. Pick a section and stroll
+
+<figure class="content-photo">
+  <img src="https://images.unsplash.com/photo-1644252682537-b3662548b146?w=800&h=500&fit=crop&q=80" alt="Live oak tree and historic home in New Orleans Garden District" loading="lazy">
+  <figcaption>The Garden District — oak-lined streets and stunning antebellum mansions</figcaption>
+</figure>
 
 ### [National WWII Museum](https://www.nationalww2museum.org/) ([map](https://www.google.com/maps/search/?api=1&query=National+WWII+Museum+New+Orleans+LA))
 - Plan 3–4 hours minimum. You could spend a full day
@@ -34,6 +44,11 @@ New Orleans rewards slow exploration. Rushing NOLA is a crime. Two nights lets y
 - Immersive exhibits, oral histories, restored aircraft and vehicles
 - **Beyond All Boundaries** — 4D film narrated by Tom Hanks, worth seeing
 - Fully accessible throughout
+
+<figure class="content-photo">
+  <img src="https://images.unsplash.com/photo-1551914114-67c556be20e8?w=800&h=500&fit=crop&q=80" alt="Statue outside the National WWII Museum" loading="lazy">
+  <figcaption>The National WWII Museum — plan at least 3-4 hours</figcaption>
+</figure>
 
 ### Frenchmen Street ([map](https://www.google.com/maps/search/?api=1&query=Frenchmen+Street+New+Orleans+LA))
 - The real live music scene in New Orleans — locals go here, not Bourbon Street
@@ -43,6 +58,11 @@ New Orleans rewards slow exploration. Rushing NOLA is a crime. Two nights lets y
 ## Food
 
 Reservations are essential for the starred spots. Book well in advance.
+
+<figure class="content-photo">
+  <img src="https://images.unsplash.com/photo-1625183295232-19adbd559e2c?w=800&h=500&fit=crop&q=80" alt="Beignets and cafe au lait" loading="lazy">
+  <figcaption>Beignets and chicory coffee — a New Orleans rite of passage</figcaption>
+</figure>
 
 - **[Commander's Palace](https://www.commanderspalace.com/)** ([map](https://www.google.com/maps/search/?api=1&query=Commanders+Palace+New+Orleans+LA)) — legendary Garden District restaurant. The 25-cent martini lunch is a New Orleans institution. Jackets encouraged but not always enforced
 - **[Dooky Chase's](https://www.dookychaserestaurants.com/)** ([map](https://www.google.com/maps/search/?api=1&query=Dooky+Chases+Restaurant+New+Orleans+LA)) — Creole soul food, Leah Chase's legacy. Fried chicken, gumbo, stuffed shrimp. Historic and delicious
