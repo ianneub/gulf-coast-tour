@@ -17,40 +17,40 @@ Pensacola blends military history, Spanish colonial roots, and genuine Gulf Coas
 
 ## Key Stops
 
-### National Naval Aviation Museum
+### [National Naval Aviation Museum](https://navalaviationmuseum.org/) ([map](https://www.google.com/maps/search/?api=1&query=National+Naval+Aviation+Museum+Pensacola+FL))
 - One of the largest air and space museums in the world — and it's **free**
 - Over 150 restored aircraft, flight simulators, IMAX theater
 - Home base of the Blue Angels — if timing is right (typically Tuesday/Wednesday mornings), you can watch practice flights from the museum grounds
 - Plan 2–3 hours
 - Fully accessible with smooth paths throughout
 
-### Historic Pensacola Village
+### [Historic Pensacola Village](https://historicpensacola.org/) ([map](https://www.google.com/maps/search/?api=1&query=Historic+Pensacola+Village+FL))
 - Collection of historic homes and museums from the colonial era through the Civil War
 - Compact cluster in Seville Quarter — easy to walk through in 1–2 hours
 - Guided tours available or self-guided at your own pace
 
-### Fort Barrancas & Fort Pickens
+### [Fort Barrancas](https://www.nps.gov/guis/planyourvisit/fort-barrancas-area.htm) ([map](https://www.google.com/maps/search/?api=1&query=Fort+Barrancas+Pensacola+FL)) & [Fort Pickens](https://www.nps.gov/guis/planyourvisit/fort-pickens-area.htm) ([map](https://www.google.com/maps/search/?api=1&query=Fort+Pickens+Gulf+Islands+National+Seashore+FL))
 - Spanish and Civil War-era forts in the Gulf Islands National Seashore
 - **Fort Barrancas** — on the Naval Air Station grounds, smaller, accessible
 - **Fort Pickens** — on Santa Rosa Island, larger, where Geronimo was held as prisoner. Paved paths to main areas but some sandy stretches
 
-### Palafox Street Downtown
+### Palafox Street Downtown ([map](https://www.google.com/maps/search/?api=1&query=Palafox+Street+Downtown+Pensacola+FL))
 - The main downtown strip — restored historic buildings, galleries, restaurants
 - Good for an afternoon or evening stroll
 
 ## Food
 
-- **The Fish House** — waterfront on Bayou Texar, known for Grits à Ya Ya (smoked gouda grits with shrimp)
-- **McGuire's Irish Pub** — eccentric, fun, known for steaks. Dollar bills cover every surface
-- **George Bistro + Bar** — upscale Southern, quieter option
-- **Joe Patti's Seafood** — massive seafood market. Great for grabbing fresh prepared food and eating at their outdoor tables
-- **The Grand Marlin** — waterfront, excellent fish, great sunset views at Pensacola Beach
+- **[The Fish House](https://fishhousepensacola.com/)** ([map](https://www.google.com/maps/search/?api=1&query=The+Fish+House+Pensacola+FL)) — waterfront on Bayou Texar, known for Grits à Ya Ya (smoked gouda grits with shrimp)
+- **[McGuire's Irish Pub](https://www.mcguiresirishpub.com/)** ([map](https://www.google.com/maps/search/?api=1&query=McGuires+Irish+Pub+Pensacola+FL)) — eccentric, fun, known for steaks. Dollar bills cover every surface
+- **[George Bistro + Bar](https://georgebistroandbar.com/)** ([map](https://www.google.com/maps/search/?api=1&query=George+Bistro+Bar+Pensacola+FL)) — upscale Southern, quieter option
+- **[Joe Patti's Seafood](https://joepattis.com/)** ([map](https://www.google.com/maps/search/?api=1&query=Joe+Pattis+Seafood+Pensacola+FL)) — massive seafood market. Great for grabbing fresh prepared food and eating at their outdoor tables
+- **[The Grand Marlin](https://pensacola.thegrandmarlin.com/)** ([map](https://www.google.com/maps/search/?api=1&query=The+Grand+Marlin+Pensacola+Beach+FL)) — waterfront, excellent fish, great sunset views at Pensacola Beach
 
 ## Lodging Notes
 
 - Downtown Pensacola or Pensacola Beach — both good options
 - Downtown for walkability to restaurants; beach for morning walks and sunset
-- **Hilton Pensacola Beach** and **Margaritaville Beach Hotel** are on the beach
+- **[Hilton Pensacola Beach](https://www.hilton.com/en/hotels/pnspehf-hilton-pensacola-beach/)** ([map](https://www.google.com/maps/search/?api=1&query=Hilton+Pensacola+Beach+FL)) and **The Pensacola Beach Resort** (formerly Margaritaville Beach Hotel) are on the beach
 - Check for Tesla destination chargers at beach resort properties
 
 ## Accessibility

@@ -13,10 +13,10 @@ imageCard: "https://images.unsplash.com/photo-1562036656-33f22c4ba88b?w=600&h=40
 
 ## SpaceX Starship Launch
 
-South Padre Island is ~5–6 miles from SpaceX's Starbase at Boca Chica. It's one of the best public viewing spots for Starship launches.
+South Padre Island is ~5–6 miles from [SpaceX's Starbase](https://www.spacex.com/) ([map](https://www.google.com/maps/search/?api=1&query=SpaceX+Starbase+Boca+Chica+Texas)) at Boca Chica. It's one of the best public viewing spots for Starship launches.
 
 **Viewing spots:**
-- Isla Blanca Park (south tip of SPI) — beach-level view, ~5–6 miles from pad
+- [Isla Blanca Park](https://www.cameroncountytx.gov/parks-coastal-parks/parks-isla-blanca/) ([map](https://www.google.com/maps/search/?api=1&query=Isla+Blanca+Park+South+Padre+Island+TX)) (south tip of SPI) — beach-level view, ~5–6 miles from pad
 - SPI Convention Centre area — paved viewing, easier accessibility
 
 **The reality of launch timing:**
@@ -29,16 +29,15 @@ South Padre Island is ~5–6 miles from SpaceX's Starbase at Boca Chica. It's on
 
 ## Things to Do (Launch or Not)
 
-- **South Padre Island Birding & Nature Center** — boardwalk trails through wetlands, great for spotting roseate spoonbills and other shorebirds. Flat, accessible paths.
+- **[SPI Birding & Nature Center](https://www.spibirding.org/)** ([map](https://www.google.com/maps/search/?api=1&query=South+Padre+Island+Birding+Nature+Center+TX)) — boardwalk trails through wetlands, great for spotting roseate spoonbills and other shorebirds. Flat, accessible paths.
 - **Beach time** — SPI beaches are wide, uncrowded compared to other Gulf beaches
-- **Sea Turtle Inc.** — rescue and rehabilitation center, small but worthwhile
+- **[Sea Turtle Inc.](https://seaturtleinc.org/)** ([map](https://www.google.com/maps/search/?api=1&query=Sea+Turtle+Inc+South+Padre+Island+TX)) — rescue and rehabilitation center, small but worthwhile
 - **Fishing / dolphin tours** — several operators on the bay side
 
 ## Food
 
-- **Pier 19** — waterfront seafood, casual
-- **Daddy's Seafood & Cajun** — local favorite for shrimp
-- **Yummies Bistro** — upscale option, diverse menu
+- **[Daddy's Seafood & Cajun](https://daddysrestaurant.com/)** ([map](https://www.google.com/maps/search/?api=1&query=Daddys+Seafood+Cajun+Kitchen+South+Padre+Island+TX)) — local favorite for shrimp
+- **Yummies Bistro** ([map](https://www.google.com/maps/search/?api=1&query=Yummies+Bistro+South+Padre+Island+TX)) — upscale option, diverse menu
 
 ## Lodging Notes
 

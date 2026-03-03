@@ -17,7 +17,7 @@ Space Center Houston alone justifies the stop. Add one of America's best and mos
 
 ## Key Stops
 
-### Space Center Houston
+### [Space Center Houston](https://spacecenter.org/) ([map](https://www.google.com/maps/search/?api=1&query=Space+Center+Houston+TX))
 - Plan a half day (3–4 hours minimum)
 - Tram tour takes you to the actual Saturn V rocket and historic Mission Control
 - Hands-on exhibits, astronaut gallery, space shuttle replica
@@ -25,25 +25,25 @@ Space Center Houston alone justifies the stop. Add one of America's best and mos
 
 ### Museum District
 - 19 museums in a compact, walkable area
-- **Menil Collection** — free, world-class modern art in a serene Renzo Piano building
-- **Houston Museum of Natural Science** — excellent permanent collection, planetarium
-- **National Museum of Funeral History** — quirky, fascinating, uniquely Houston
+- **[Menil Collection](https://www.menil.org/)** ([map](https://www.google.com/maps/search/?api=1&query=Menil+Collection+Houston+TX)) — free, world-class modern art in a serene Renzo Piano building
+- **[Houston Museum of Natural Science](https://www.hmns.org/)** ([map](https://www.google.com/maps/search/?api=1&query=Houston+Museum+of+Natural+Science+TX)) — excellent permanent collection, planetarium
+- **[National Museum of Funeral History](https://nmfh.org/)** ([map](https://www.google.com/maps/search/?api=1&query=National+Museum+of+Funeral+History+Houston+TX)) — quirky, fascinating, uniquely Houston
 - Pick 1–2 museums max. Don't overpack the day.
 
 ## Food
 
 Houston is one of the most underrated food cities in America. The diversity is staggering.
 
-- **Truth BBQ** — regularly ranked among the best BBQ in Texas. Brisket, ribs, banana pudding. Go early, lines form
-- **Original Ninfa's on Navigation** — the birthplace of fajitas. Tex-Mex legend
-- **Pho Binh** — Vietnamese in Midtown, long history (including as a Viet Cong safe house during the war)
-- **Underbelly Hospitality / Georgia James** — Chris Shepherd's restaurants celebrating Houston's immigrant food cultures
-- **The Breakfast Klub** — chicken and waffles, catfish and grits. Iconic Houston morning spot. Expect a line
+- **[Truth BBQ](https://truthbbq.com/)** ([map](https://www.google.com/maps/search/?api=1&query=Truth+BBQ+Houston+TX)) — regularly ranked among the best BBQ in Texas. Brisket, ribs, banana pudding. Go early, lines form
+- **[Original Ninfa's on Navigation](https://ninfas.com/)** ([map](https://www.google.com/maps/search/?api=1&query=Original+Ninfas+on+Navigation+Houston+TX)) — the birthplace of fajitas. Tex-Mex legend
+- **[Pho Binh](https://www.phobinh.com/)** ([map](https://www.google.com/maps/search/?api=1&query=Pho+Binh+Midtown+Houston+TX)) — Vietnamese in Midtown, long history (including as a Viet Cong safe house during the war)
+- **[Underbelly Hospitality](https://underbellyhospitality.com/) / [Georgia James](https://www.georgiajameshouston.com/)** ([map](https://www.google.com/maps/search/?api=1&query=Georgia+James+Houston+TX)) — Chris Shepherd's restaurants celebrating Houston's immigrant food cultures
+- **[The Breakfast Klub](https://thebreakfastklub.com/)** ([map](https://www.google.com/maps/search/?api=1&query=The+Breakfast+Klub+Houston+TX)) — chicken and waffles, catfish and grits. Iconic Houston morning spot. Expect a line
 
 ## Lodging Notes
 
 - Stay near the Museum District or Medical Center for central access
-- Hotel ZaZa Museum District is well-located
+- **[Hotel ZaZa Museum District](https://www.hotelzaza.com/houston-museum-district)** ([map](https://www.google.com/maps/search/?api=1&query=Hotel+ZaZa+Museum+District+Houston+TX)) is well-located
 - Check for Tesla destination chargers — several downtown and Galleria-area hotels have them
 
 ## Accessibility
