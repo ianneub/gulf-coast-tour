@@ -49,8 +49,8 @@ Pensacola blends military history, Spanish colonial roots, and genuine Gulf Coas
 - Good for an afternoon or evening stroll
 
 <figure class="content-photo">
-  <img src="https://images.unsplash.com/photo-1537160833943-1b610e77231c?w=800&h=500&fit=crop&q=80" alt="Pensacola Beach white sand" loading="lazy">
-  <figcaption>Pensacola Beach — where the sand turns white and the water turns emerald</figcaption>
+  <img src="https://images.unsplash.com/photo-1617370851257-82990922786f?w=800&h=500&fit=crop&q=80" alt="Pensacola Beach at sunset with emerald water and white sand" loading="lazy">
+  <figcaption>Pensacola Beach — emerald water, white sand, and a Gulf Coast sunset</figcaption>
 </figure>
 
 ## Food
