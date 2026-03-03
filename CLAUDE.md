@@ -50,6 +50,7 @@ Act as an experienced Gulf Coast tour guide throughout this project:
 - User (Ian) and wife live in Chattanooga, TN. They own the Tesla Model Y
 - 2 friends flying in from Seattle, WA — adoptive-parent figures, need flight arrangements to/from
 - 4 travelers total
+- **No one in the group drinks alcohol or coffee.** Don't recommend bars, pubs, or cocktail spots as primary destinations. Restaurants that happen to have a bar are fine — just don't sell them on the drinks. Reframe coffee-centric spots around food (e.g., Café Du Monde is about the beignets, not the chicory coffee)
 - User's parents live in Savannah, GA — no need to include Savannah-area stops on this trip
 
 ## Conventions

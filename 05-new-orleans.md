@@ -20,7 +20,7 @@ New Orleans rewards slow exploration. Rushing NOLA is a crime. Two nights lets y
 ### French Quarter
 - **Jackson Square** ([map](https://www.google.com/maps/search/?api=1&query=Jackson+Square+New+Orleans+LA)) — street performers, artists, St. Louis Cathedral as the backdrop
 - **[St. Louis Cathedral](https://stlouiscathedral.org/)** ([map](https://www.google.com/maps/search/?api=1&query=St+Louis+Cathedral+New+Orleans+LA)) — oldest cathedral in continuous use in the US, free to enter
-- **[Café Du Monde](https://shop.cafedumonde.com/)** ([map](https://www.google.com/maps/search/?api=1&query=Cafe+Du+Monde+New+Orleans+LA)) — beignets and chicory coffee. Go early morning or late afternoon to avoid the worst lines
+- **[Café Du Monde](https://shop.cafedumonde.com/)** ([map](https://www.google.com/maps/search/?api=1&query=Cafe+Du+Monde+New+Orleans+LA)) — the iconic beignet spot. Pillowy fried dough buried in powdered sugar, open 24 hours. Go early morning or late afternoon to avoid the worst lines. They also serve milk, juice, and hot chocolate
 - Walk at your own pace — the Quarter is compact (~13 blocks by 6 blocks)
 
 <figure class="content-photo">
@@ -61,20 +61,20 @@ Reservations are essential for the starred spots. Book well in advance.
 
 <figure class="content-photo">
   <img src="https://images.unsplash.com/photo-1625183295232-19adbd559e2c?w=800&h=500&fit=crop&q=80" alt="Beignets and cafe au lait" loading="lazy">
-  <figcaption>Beignets and chicory coffee — a New Orleans rite of passage</figcaption>
+  <figcaption>Beignets at Café Du Monde — a New Orleans rite of passage</figcaption>
 </figure>
 
-- **[Commander's Palace](https://www.commanderspalace.com/)** ([map](https://www.google.com/maps/search/?api=1&query=Commanders+Palace+New+Orleans+LA)) — legendary Garden District restaurant. The 25-cent martini lunch is a New Orleans institution. Jackets encouraged but not always enforced
+- **[Commander's Palace](https://www.commanderspalace.com/)** ([map](https://www.google.com/maps/search/?api=1&query=Commanders+Palace+New+Orleans+LA)) — legendary Garden District restaurant. The lunch service is outstanding — turtle soup, pecan-crusted Gulf fish, bread pudding soufflé. Jackets encouraged but not always enforced
 - **[Dooky Chase's](https://www.dookychaserestaurants.com/)** ([map](https://www.google.com/maps/search/?api=1&query=Dooky+Chases+Restaurant+New+Orleans+LA)) — Creole soul food, Leah Chase's legacy. Fried chicken, gumbo, stuffed shrimp. Historic and delicious
 - **[Central Grocery](https://centralgrocery.com/)** ([map](https://www.google.com/maps/search/?api=1&query=Central+Grocery+New+Orleans+LA)) — the original muffuletta. Cash only, takeaway — eat it on a bench in Jackson Square
 - **[Cochon](https://cochonrestaurant.com/)** ([map](https://www.google.com/maps/search/?api=1&query=Cochon+Restaurant+New+Orleans+LA)) — modern Cajun by Donald Link. Cochon de lait (roast suckling pig), fried alligator, boucherie plate
 - **[Parkway Bakery & Tavern](https://parkwaypoorboys.com/)** ([map](https://www.google.com/maps/search/?api=1&query=Parkway+Bakery+Tavern+New+Orleans+LA)) — best po'boys in the city (roast beef, shrimp). Worth the short drive from the Quarter
-- **[Morning Call](https://morningcallcoffeestandnola.com/)** ([map](https://www.google.com/maps/search/?api=1&query=Morning+Call+Coffee+Stand+New+Orleans+LA)) — beignets in City Park, less crowded alternative to Café Du Monde
+- **[Morning Call](https://morningcallcoffeestandnola.com/)** ([map](https://www.google.com/maps/search/?api=1&query=Morning+Call+Coffee+Stand+New+Orleans+LA)) — beignets in City Park, less crowded alternative to Café Du Monde. Beautiful setting next to the sculpture garden
 
 ## Lodging Notes
 
 - Stay in the French Quarter or Garden District for walkability
-- **[Hotel Monteleone](https://hotelmonteleone.com/)** ([map](https://www.google.com/maps/search/?api=1&query=Hotel+Monteleone+New+Orleans+LA)) — historic French Quarter hotel, famous revolving Carousel Bar
+- **[Hotel Monteleone](https://hotelmonteleone.com/)** ([map](https://www.google.com/maps/search/?api=1&query=Hotel+Monteleone+New+Orleans+LA)) — historic French Quarter hotel, beautiful lobby, excellent location on Royal Street
 - **[The Roosevelt](https://therooseveltneworleans.com/)** ([map](https://www.google.com/maps/search/?api=1&query=The+Roosevelt+New+Orleans+Waldorf+Astoria+LA)) — grand hotel, great location, check for destination chargers
 - Avoid hotels on Bourbon Street itself — noisy at night
 

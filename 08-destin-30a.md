@@ -54,7 +54,7 @@ The 24-mile stretch of road connecting a string of planned beach communities, ea
 
 ## Food
 
-- **[Bud & Alley's](https://www.budandalleys.com/)** ([map](https://www.google.com/maps/search/?api=1&query=Bud+and+Alleys+Seaside+FL)) (Seaside) — rooftop bar with sunset views, excellent seafood. The signature spot on 30A
+- **[Bud & Alley's](https://www.budandalleys.com/)** ([map](https://www.google.com/maps/search/?api=1&query=Bud+and+Alleys+Seaside+FL)) (Seaside) — rooftop with sunset views, excellent seafood. The signature restaurant on 30A
 - **[The Bay](https://www.baysouthwalton.com/)** ([map](https://www.google.com/maps/search/?api=1&query=The+Bay+Restaurant+Santa+Rosa+Beach+FL)) (Santa Rosa Beach) — waterfront on Choctawhatchee Bay, wood-fired dishes, great atmosphere
 - **[Stinky's Fish Camp](https://stinkysfishcamp.com/)** ([map](https://www.google.com/maps/search/?api=1&query=Stinkys+Fish+Camp+Santa+Rosa+Beach+FL)) (Santa Rosa Beach) — don't let the name fool you. Elevated Gulf seafood in a funky setting
 - **[Cafe Thirty-A](https://cafethirtya.com/)** ([map](https://www.google.com/maps/search/?api=1&query=Cafe+Thirty-A+Seagrove+Beach+FL)) (Seagrove Beach) — upscale dining in a casual beach setting

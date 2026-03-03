@@ -56,7 +56,7 @@ Pensacola blends military history, Spanish colonial roots, and genuine Gulf Coas
 ## Food
 
 - **[The Fish House](https://fishhousepensacola.com/)** ([map](https://www.google.com/maps/search/?api=1&query=The+Fish+House+Pensacola+FL)) — waterfront on Bayou Texar, known for Grits à Ya Ya (smoked gouda grits with shrimp)
-- **[McGuire's Irish Pub](https://www.mcguiresirishpub.com/)** ([map](https://www.google.com/maps/search/?api=1&query=McGuires+Irish+Pub+Pensacola+FL)) — eccentric, fun, known for steaks. Dollar bills cover every surface
+- **[McGuire's Irish Pub](https://www.mcguiresirishpub.com/)** ([map](https://www.google.com/maps/search/?api=1&query=McGuires+Irish+Pub+Pensacola+FL)) — eccentric atmosphere, known for steaks and burgers. Dollar bills cover every surface — the decor alone is worth the visit
 - **[George Bistro + Bar](https://georgebistroandbar.com/)** ([map](https://www.google.com/maps/search/?api=1&query=George+Bistro+Bar+Pensacola+FL)) — upscale Southern, quieter option
 - **[Joe Patti's Seafood](https://joepattis.com/)** ([map](https://www.google.com/maps/search/?api=1&query=Joe+Pattis+Seafood+Pensacola+FL)) — massive seafood market. Great for grabbing fresh prepared food and eating at their outdoor tables
 - **[The Grand Marlin](https://pensacola.thegrandmarlin.com/)** ([map](https://www.google.com/maps/search/?api=1&query=The+Grand+Marlin+Pensacola+Beach+FL)) — waterfront, excellent fish, great sunset views at Pensacola Beach

@@ -61,7 +61,7 @@ Mobile is deeply historic and perpetually underrated. It's the original Mardi Gr
 ### Food
 
 - **Wintzell's Oyster House** ([map](https://www.google.com/maps/search/?api=1&query=Wintzells+Oyster+House+Mobile+AL)) — since 1938, the classic. Oysters every way
-- **[The Noble South](https://thenoblesouthrestaurant.com/)** ([map](https://www.google.com/maps/search/?api=1&query=The+Noble+South+Mobile+AL)) — Southern cuisine with local ingredients, excellent cocktails
+- **[The Noble South](https://thenoblesouthrestaurant.com/)** ([map](https://www.google.com/maps/search/?api=1&query=The+Noble+South+Mobile+AL)) — Southern cuisine with local ingredients, creative seasonal menu
 - **[Spot of Tea](https://spotoftea.com/)** ([map](https://www.google.com/maps/search/?api=1&query=Spot+of+Tea+Mobile+AL)) — great lunch spot downtown, relaxed, in a historic building
 - **[Callaghan's Irish Social Club](https://www.callaghansirishsocialclub.com/)** ([map](https://www.google.com/maps/search/?api=1&query=Callaghans+Irish+Social+Club+Mobile+AL)) — beloved burger joint with live music
 
